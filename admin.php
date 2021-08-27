@@ -13,8 +13,7 @@ if(isset($_SESSION['sesi'])){
 	<div id="container">
 		<div id="header">
 			<div id="logo-perpustakaan-container">
-				<image id="logo-perpustakaan" src="images/logo-perpustakaan3.png" 
-				border=0 style="border:0; text-decoration:none; outline:none"> 
+				<image id="logo-perpustakaan" src="images/logo-perpustakaan3.png" style="border:0; text-decoration:none; outline:none"> 
 			</div>
 			<div id="nama-alamat-perpustakaan-container">
 				<div class="nama-alamat-perpustakaan">
